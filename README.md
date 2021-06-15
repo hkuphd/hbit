@@ -1,2 +1,2 @@
 # Emakefun micorbit ph2.0 sensorbit extensions
-# pxt-joystick
+# pxt-j2bit
